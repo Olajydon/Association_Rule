@@ -1,5 +1,5 @@
 # Association Rule for an Online Store
-# Aim m
+# Aim
 The aim of this work is to use association rule mining technique to provide relationship between products of an online retail business
 # Data set
 This work uses an online retail data set obtained from the uci machine learning repository [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/). This transnational data set contains one year (between 01/12/2010 and 09/12/2011) sales transactions that occurred in 38 different countries for a UK-based and registered online retail. The company mainly sells unique all-occasion gifts. The data set has 541,909 observations(each representing a product) and 8 features. Due to the size of the data set, it’ll be difficult to understand if there is any relationship between these products. This necessitates the use of a data mining technique to help provide relationship between products and thus a business insight. The data set has the following features:
